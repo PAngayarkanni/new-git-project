@@ -1,9 +1,9 @@
 # Version Control with Git
 # First project with Git
 
-This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, I learnt version control while learning the basics to intermediate knowledge of Git.
 
-This repo contains the source code of a blog project that will be used throughout the course.
+This repo contains the source code of a blog project that was used throughout the course.
 
 ## Table of Contents
 
@@ -26,3 +26,5 @@ With the help of:
 * Colt
 * James
 * Julia
+
+## Project submitted by : Angayarkanni
